@@ -1,0 +1,4 @@
+#!/usr/bin/env node
+
+const job_example = require('..')
+job_example.writeLog()
